@@ -49,7 +49,7 @@
 +Nemesis Output
 --------- Outputs --------_separator
 -Use Or Take SKSE
--ZISS - Icons
++ZISS - Icons
 --------- DO NOT DELETE --------_separator
 +Missives - Voice and Quest Expansion
 +Bees sting when caught (se-ae)
