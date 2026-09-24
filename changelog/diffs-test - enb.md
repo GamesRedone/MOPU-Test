@@ -45,11 +45,15 @@ The renamed mods found within this changelog are used by [MOPU](https://www.game
 
 ### Removed (5)
 
-- [ MOD ] Dragonborns Bestiary MCM
 - [ MOD ] CS - Wheeler Valhalla Icons
 - [ MOD ] ENB - Wheeler Valhalla Icons
 - [ MOD ] Attack MCO unarmed PA fix
+- [ MOD ] Dragonborns Bestiary MCM
 - [ PLUGIN ] DragonbornsBestiaryMCM.esp
+
+### Renamed (1)
+
+- [ MOD ] BethINI → BethINI Pie
 
 ---
 
