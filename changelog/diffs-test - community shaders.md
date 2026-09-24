@@ -1,7 +1,4 @@
-# Changes to the Load Order of [MODLIST NAME]
-
-THIS IS SAMPLE TEST DATA BASED ON THE [ZISS](https://github.com/GamesRedone/ZISS) CHANGELOG TO SHOW THE CAPABILITIES OF MOPU.
-> The actual changelog for ZISS can be found [Here](https://github.com/GamesRedone/ZISS/blob/main/Changelog/diffs-ziss%20-%20community%20shaders.md).
+# Changes to the Load Order of MOPU-Test
 
 The renamed mods found within this changelog are used by [MOPU](https://www.gamesredone.com/mopu/) to update your Custom MO2 Profile.
 
@@ -15,8 +12,9 @@ The renamed mods found within this changelog are used by [MOPU](https://www.game
 
 - [ PLUGIN ] DisarmlessDraugr.esp
 
-### Disabled (1)
+### Disabled (2)
 
+- [ MOD ] ZISS - Icons
 - [ MOD ] Disarmless Draugrs
 
 ### Repositioned (2)
@@ -36,6 +34,10 @@ The renamed mods found within this changelog are used by [MOPU](https://www.game
 ### Removed (1)
 
 - [ MOD ] Wheeler Valhalla Icons
+
+### Enabled (1)
+
+- [ MOD ] ZISS - Icons
 
 ## v1.2.0 → v1.2.1
 
